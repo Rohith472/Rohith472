@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Rohith
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on on many projects
-- 📫 How to reach me www.linkedin.com/in/rohith472
+Hi there! 👋
+I'm a data analyst passionate about uncovering insights from complex datasets. I use tools like SQL, Python, and R to analyze and visualize data, helping teams make data-driven decisions. My projects focus on:
 
-<!---
-Rohith472/Rohith472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Data Cleaning and Transformation
+📊 Data Visualization and Dashboarding
+📈 Statistical Analysis and Forecasting
+
+I love exploring new datasets, solving complex problems, and sharing my findings. Feel free to connect or explore my work!
+
+Happy analyzing! 😊📈
